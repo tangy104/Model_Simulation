@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="RPM" on="06/22/23||00:15:22" using="Simscape Multibody Link Version 7.4" from="Autodesk Inventor 2021 (Build 250183000, 183)"/>
+<ModelUnits mass="lbmass" length="millimeter"/>
+<DataUnits mass="kilogram" length="centimeter"/>
+<RootAssembly name="fianl assembly.iam" uid="fianl assembly.iam_{9F57F786-4A77-722B-7D70-48829DE833C5}" version="{7112EB43-5408-185E-C313-BE47CDDEE76A}">
+<AssemblyFile name="fianl assembly.iam" type="Inventor Assembly"/>
+<InstanceTree>
+<Instance name="robot v4:1" grounded="true" uid="robot v4:1" entityUid="robot v4.ipt_{505EC48F-456E-E641-A5F3-D399A9294165}">
+<Transform>
+<Rotation>0.32560962755511846 0.9455021012582594 -0.0020364085185835571 -0.94550291281789811 0.32561207831469935 0.0010081212615299753 0.0016162599811515492 0.0015971761975401666 0.99999741836257328</Rotation>
+<Translation>15.457718841440572 -21.381792205500012 -11.210876786136012</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Diffuse r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="motor2 v1:1" uid="motor2 v1:1" entityUid="motor2 v1.ipt_{1418393C-4E86-BE4F-E33D-0C9635316589}">
+<Transform>
+<Rotation>0.32560962755511524 0.94550210125827061 -0.0020364085186189438 -0.94550291281786192 0.32561207831470351 0.0010081212615374341 0.0016162599811520924 0.0015971761975418879 0.99999741836263334</Rotation>
+<Translation>15.122095477359469 -20.411724248300988 -10.292535827723295</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="part3 v10:1" uid="part3 v10:1" entityUid="part3 v10.ipt_{F21CB5C4-4557-A151-6923-D4A0A7FD73C5}">
+<Transform>
+<Rotation>0.87739317540982109 -0.47562883992916316 -0.062915994563461017 0.054769985020453334 -0.03098318307462258 0.99801818175192769 -0.47663556779276373 -0.87910024968384748 -0.0011342489439310657</Rotation>
+<Translation>14.852014086788365 -23.106444489891086 12.482493326444558</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Diffuse r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="part4 v16:1" uid="part4 v16:1" entityUid="part4 v16.ipt_{A131C2DB-4DE9-C32B-D407-82BF9E00F80C}">
+<Transform>
+<Rotation>0.82932801665743638 -0.55520862602731191 -0.062915994563459324 0.05164929460630064 -0.035945225819969402 0.99801818175191315 -0.55636983307304955 -0.83093400599907452 -0.0011342489439311702</Rotation>
+<Translation>20.531723485429264 -20.022692973695534 21.559438538939364</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Diffuse r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="part5 v6:1" uid="part5 v6:1" entityUid="part5 v6.ipt_{EC90FA04-416C-8E0F-FFB7-86A1197394AB}">
+<Transform>
+<Rotation>-0.50161583754235561 -0.21333549373597552 0.83837313807107972 -0.31564005243925591 0.94744015340259169 0.052235170303712247 -0.8054519903898032 -0.23842215256335511 -0.54258821250027689</Rotation>
+<Translation>34.079540687493015 -18.799227252007292 12.096905025311601</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Diffuse r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="A4 motor v3:1" uid="A4 motor v3:1" entityUid="A4 motor v3.ipt_{E581CF06-4C4E-954F-DB56-5FA16819F06B}">
+<Transform>
+<Rotation>-0.82932801665748412 -0.55520862602732701 0.062915994563460767 -0.051649294606292896 -0.035945225819967862 -0.9980181817519248 0.55636983307308074 -0.83093400599914147 0.0011342489439311863</Rotation>
+<Translation>20.725939121728175 -14.771632171552373 20.179568712175687</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="A5 motor v2:1" uid="A5 motor v2:1" entityUid="A5 motor v2.ipt_{5B5B7EE2-42E3-9214-852A-BDB34A7504B0}">
+<Transform>
+<Rotation>-0.70714436901019562 -0.70426445246462899 0.062915994563462224 -0.043776995439051898 -0.045202694199634505 -0.9980181817519479 0.70571270078379711 -0.70849721060273396 0.0011342489439310841</Rotation>
+<Translation>11.012853806970881 -16.005457725471942 2.3070256758301868</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="part2 v7:1" uid="part2 v7:1" entityUid="part2 v7.ipt_{6296E408-4569-8AC5-17A9-B2804D15F46E}">
+<Transform>
+<Rotation>0.99801674869130341 -0.062915994563462654 -0.0020364085186179164 0.062918141931393209 0.9980181817519076 0.0010081212615373767 0.0019689457752471913 -0.0011342489439263137 0.99999741836257572</Rotation>
+<Translation>15.446192769225213 -21.376086239159623 -5.5508913982037331</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Diffuse r="0.7686274509803922" g="0.20784313725490197" b="0.15294117647058825" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="A3 motor v1:2" uid="A3 motor v1:2" entityUid="A3 motor v1.ipt_{8934C8BC-44E6-4580-6A39-349BC0A8021E}">
+<Transform>
+<Rotation>0.54145365359279263 0.062915994563461627 0.83837313807107972 0.035088400874341959 -0.99801818175195156 0.052235170303712282 0.83999806257822929 0.0011342489439312533 -0.542588212500277</Rotation>
+<Translation>29.795004762119763 -18.896255180808001 14.203275702652974</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="A3 motor v1:3" uid="A3 motor v1:3" entityUid="A3 motor v1.ipt_{8934C8BC-44E6-4580-6A39-349BC0A8021E}">
+<Transform>
+<Rotation>0.8383731380711521 -0.50161583754242267 -0.21333549373597543 0.052235170303700076 -0.31564005243926824 0.94744015340260868 -0.54258821250031808 -0.80545199038980153 -0.23842215256335914</Rotation>
+<Translation>37.274691521196985 -21.001880302857838 10.970217466184124</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.18823529411764706" g="0.23137254901960785" b="0.58823529411764708" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="A1 motor v4:1" uid="A1 motor v4:1" entityUid="A1 motor v4.ipt_{23A5CCAA-4076-C118-3CB9-978CF54BDCC1}">
+<Transform>
+<Rotation>0.79098957100811662 0.3891187889100145 0.47214623441644166 -0.56326599652766263 0.76443869258368535 0.31363179436510441 -0.2388868261585935 -0.51402339771472561 0.82384041591181312</Rotation>
+<Translation>37.499028814102743 -14.189654216693285 4.3212131682736317</Translation>
+</Transform>
+</Instance>
+<Instance name="part6 v11:1" uid="part6 v11:1" entityUid="part6 v11.ipt_{803506D6-41D2-A30E-661D-4A84A68A8C57}">
+<Transform>
+<Rotation>-0.21333549373597621 -0.85531625755556673 0.47214623441645215 0.94744015340261456 -0.06318428035392773 0.31363179436509964 -0.23842215256336075 0.51423909446614124 0.82384041591182189</Rotation>
+<Translation>41.541584290731052 -16.351488115158251 7.8036252024005037</Translation>
+</Transform>
+</Instance>
+<Instance name="gear v1:1" uid="gear v1:1" entityUid="gear v1.ipt_{3C7B8A90-4A10-32B7-97EB-E081231E8C8E}">
+<Transform>
+<Rotation>0.81214030207614551 0.34279157380257697 0.47214623441643577 -0.51818141889693092 0.7956903384315398 0.31363179436508898 -0.26817186066705573 -0.49937042589309844 0.82384041591179247</Rotation>
+<Translation>41.473889672578153 -15.842113907272926 8.255418784069894</Translation>
+</Transform>
+</Instance>
+<Instance name="gear v1_MIR:1" uid="gear v1_MIR:1" entityUid="gear v1_MIR.ipt_{6E256D03-421A-B59B-4A5E-2E82B9FF9A98}">
+<Transform>
+<Rotation>0.033374300127937941 0.88088823889149326 -0.47214623441643006 0.92753793855942546 -0.20324485257014904 -0.31363179436509669 -0.37223585080416721 -0.42746630333440633 -0.82384041591179269</Rotation>
+<Translation>40.547766275519983 -13.280387157843542 7.9813577428830733</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper link v1:1" uid="gripper link v1:1" entityUid="gripper link v1.ipt_{C6F1B90D-4300-10E3-786C-B388CF107D05}">
+<Transform>
+<Rotation>-0.051833936398662357 0.87999498655606279 0.47214623441642928 -0.92307326201816786 -0.22264512235948017 0.31363179436509619 0.38111546279908037 -0.41956879427064936 0.82384041591179258</Rotation>
+<Translation>41.967528554680946 -21.904210551361132 10.450731364317686</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper link v1:2" uid="gripper link v1:2" entityUid="gripper link v1.ipt_{C6F1B90D-4300-10E3-786C-B388CF107D05}">
+<Transform>
+<Rotation>-0.051833936398660539 0.87999498655606301 0.47214623441642994 -0.92307326201816853 -0.22264512235947878 0.31363179436509708 0.38111546279908065 -0.41956879427065052 0.82384041591179258</Rotation>
+<Translation>41.542596943706165 -22.186479166289743 9.7092749899970556</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper link v1_1:1" uid="gripper link v1_1:1" entityUid="gripper link v1_1.ipt_{894D57A0-4F98-0FDE-7B81-02A2D0FD5BBB}">
+<Transform>
+<Rotation>-0.84096446155521998 -0.26430419544063177 0.47214623441643555 0.44046361445303966 -0.8412056240339213 0.3136317943650887 0.31427786868327745 0.47171643003628971 0.82384041591179269</Rotation>
+<Translation>35.123218292846161 -10.809230980773403 9.9790213744060967</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper link v1_1:2" uid="gripper link v1_1:2" entityUid="gripper link v1_1.ipt_{894D57A0-4F98-0FDE-7B81-02A2D0FD5BBB}">
+<Transform>
+<Rotation>-0.84096446155521964 -0.26430419544063166 0.47214623441643555 0.44046361445303978 -0.84120562403392118 0.31363179436508865 0.31427786868327723 0.4717164300362896 0.82384041591179247</Rotation>
+<Translation>34.69828668187138 -11.091499595701976 9.2375650000854783</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper v4:1" uid="gripper v4:1" entityUid="gripper v4.ipt_{646100A2-4146-B931-E0CD-9EB72B7C8E72}">
+<Transform>
+<Rotation>0.88142888320521084 0.012690830469246555 0.472146234416429 -0.1814197319862762 0.93205256204216058 0.31363179436509636 -0.43608485951433895 -0.36210076555103182 0.82384041591179258</Rotation>
+<Translation>39.998625072868663 -11.642140640455089 7.0654871090891644</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper v4_MIR:1" uid="gripper v4_MIR:1" entityUid="gripper v4_MIR.ipt_{D195CF43-46D5-389A-AE8C-8E8835CB071C}">
+<Transform>
+<Rotation>0.56525942274840701 0.67643160653573686 -0.47214623441643566 0.60942155280505483 -0.72817612467040593 -0.31363179436508876 -0.55595607377814793 -0.11045276429076643 -0.82384041591179236</Rotation>
+<Translation>42.651540408366564 -16.978788361793349 7.4063148823077425</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Mate:1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor2 v1:1</Uid>
+</InstancePath>
+<Position>-2.0500000000000185 -0.92499999999998472 2.8799999999999084</Position>
+<Axis>0 1.2620113287731272e-16 -0.99999999999996803</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>robot v4:1</Uid>
+</InstancePath>
+<Position>-4.4999999999999822 -1.1102230246251565e-13 3.8000000000001082</Position>
+<Axis>-1.7982577232844577e-14 -2.9357375905258998e-14 1.0000000000000284</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor2 v1:1</Uid>
+</InstancePath>
+<Position>-2.4000000000000661 0.49999999999999289 3.1199999999998997</Position>
+<Axis>0 -1.2620113287731272e-16 0.99999999999996803</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>robot v4:1</Uid>
+</InstancePath>
+<Position>-3.4250000000000114 0.49999999999988809 3.80000000000011</Position>
+<Axis>1.7982577232844577e-14 2.9357375905258998e-14 -1.0000000000000284</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor2 v1:1</Uid>
+</InstancePath>
+<Position>1.0250000000000341 -8.8817841970012523e-16 4.7399999999998483</Position>
+<Axis>0 -1.2620113287731272e-16 0.99999999999996803</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>part2 v7:1</Uid>
+</InstancePath>
+<Position>1.7763568394002505e-15 0 0</Position>
+<Axis>-2.2291196666301971e-15 -4.5341334853343795e-15 1.0000000000000258</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor2 v1:1</Uid>
+</InstancePath>
+<Position>2.4000000000000661 -0.49999999999999201 3.1199999999998997</Position>
+<Axis>0 1.2620113287731272e-16 -0.99999999999996803</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>robot v4:1</Uid>
+</InstancePath>
+<Position>1.3749999999999147 -0.50000000000010925 3.8000000000001091</Position>
+<Axis>1.7982577232844577e-14 2.9357375905258998e-14 -1.0000000000000284</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>A5 motor v2:1</Uid>
+</InstancePath>
+<Position>0.19299999999999251 0 5.0299999999998981</Position>
+<Axis>-2.8037468180475145e-16 0 0.99999999999997979</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>part2 v7:1</Uid>
+</InstancePath>
+<Position>-7.323855950704238 0.59999999999996589 9.9229487872039623</Position>
+<Axis>4.5889763275702537e-15 -1.0000000000000202 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>A5 motor v2:1</Uid>
+</InstancePath>
+<Position>1.9499999999999393 0 5.6199999999998838</Position>
+<Axis>-2.8037468180475145e-16 0 0.99999999999997979</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part2 v7:1</Uid>
+</InstancePath>
+<Position>-5.450022980559817 0.39999999999991687 9.2511973450767258</Position>
+<Axis>-5.215977220182199e-15 1.0000000000000202 -1.2687333822425373e-15</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>A5 motor v2:1</Uid>
+</InstancePath>
+<Position>-3.2499999999999352 -1.499999999999952 -3.5527136788005009e-15</Position>
+<Axis>-2.0872192862952943e-14 -0.99999999999996814 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>part2 v7:1</Uid>
+</InstancePath>
+<Position>-0.71240754660976791 1.8000000000000043 6.6349022546864269</Position>
+<Axis>0.70710678118657311 -3.1831091582001925e-15 0.70710678118656511</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>A4 motor v3:1</Uid>
+</InstancePath>
+<Position>1.9499999999999122 -2.1316282072803006e-14 5.6200000000000152</Position>
+<Axis>7.7270004630869416e-15 -3.7890697524023409e-15 1.0000000000000029</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part4 v16:1</Uid>
+</InstancePath>
+<Position>-0.75000000000002132 0.8499999999999801 3.5527136788005009e-15</Position>
+<Axis>-3.5489189711968017e-15 6.7507848269809934e-15 1.0000000000000147</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>A4 motor v3:1</Uid>
+</InstancePath>
+<Position>0.19300000000002449 -1.7763568394002505e-14 5.0300000000000153</Position>
+<Axis>7.7270004630869416e-15 -3.7890697524023409e-15 1.0000000000000029</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>part4 v16:1</Uid>
+</InstancePath>
+<Position>1.1999999999999602 0.84999999999998366 0.20000000000000995</Position>
+<Axis>3.5489189711968017e-15 -6.7507848269809934e-15 -1.0000000000000147</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>A4 motor v3:1</Uid>
+</InstancePath>
+<Position>3.2499999999998632 1.4999999999998685 0</Position>
+<Axis>5.3235194030776256e-14 0.99999999999990896 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>part4 v16:1</Uid>
+</InstancePath>
+<Position>-2.0500000000000522 2.3499999999999375 3.5527136788005009e-15</Position>
+<Axis>2.8921309791485328e-14 -0.99999999999997302 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>A3 motor v1:2</Uid>
+</InstancePath>
+<Position>1.0250000000000625 0 4.5199999999998859</Position>
+<Axis>2.0206059048177849e-14 1.1861171766991419e-16 0.99999999999997358</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part4 v16:1</Uid>
+</InstancePath>
+<Position>15.92353471110248 -0.16367456113265533 0.54974056339862187</Position>
+<Axis>0.99986395473132517 -0.016494606058256367 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Mate:12">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>A3 motor v1:2</Uid>
+</InstancePath>
+<Position>2.7300000000000111 0.62500000000000355 2.8800000000000061</Position>
+<Axis>6.0661111550563973e-16 0.30000000000000177 1.8665895652053566e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>part4 v16:1</Uid>
+</InstancePath>
+<Position>14.949999999999996 -1.9499999999999922 1.9000000000000057</Position>
+<Axis>2.7523556350717016e-15 -9.9052710478275685e-16 -2.7000000000000011</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Mate:13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>A3 motor v1:3</Uid>
+</InstancePath>
+<Position>1.0249999999999382 -3.907985046680551e-14 4.519999999999829</Position>
+<Axis>8.1878948066105295e-15 -8.3266726846886741e-15 0.9999999999999617</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part5 v6:1</Uid>
+</InstancePath>
+<Position>-8.5265128291212022e-14 1.2499999999999503 4.2000000625847669</Position>
+<Axis>-8.3266726846886741e-15 0.99999999999997857 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Mate:14">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>part5 v6:1</Uid>
+</InstancePath>
+<Position>-1.0203914945849064 1.25 1.1500000000000021</Position>
+<Axis>1.1102230246251565e-15 -1.4432899320127035e-15 4.0999999999958359</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>A3 motor v1:3</Uid>
+</InstancePath>
+<Position>-1.9699999999999847 -1.0249999999999986 3.6500000000000021</Position>
+<Axis>2.6787722339831621 -4.4408920985006262e-16 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Mate:15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>A1 motor v4:1</Uid>
+</InstancePath>
+<Position>1.0250000000000341 7.9491968563161208e-14 4.5199999999998859</Position>
+<Axis>9.3536289824669439e-15 1.7652546091539989e-14 0.99999999999997513</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Position>3.0793256441890335 0.74738042225421708 3.5527136788005009e-15</Position>
+<Axis>-4.7184478546569153e-16 -1.5543122344752192e-15 0.99999999999996425</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Mate:16">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>A1 motor v4:1</Uid>
+</InstancePath>
+<Position>-1.9699999999999918 -1.0250000000000026 3.649999999999995</Position>
+<Axis>2.6787722339831621 -1.1102230246251565e-16 -3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Position>4.27823222531471 3.7928890841584995 0.35000000000000142</Position>
+<Axis>-2.6463493522150165 -3.1315866754779655 -5.5511151231257827e-16</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Mate:17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Position>1.4658149344540981 -1.3391599815697326 3.5527136788005009e-15</Position>
+<Axis>-4.7184478546569153e-16 -1.5543122344752192e-15 0.99999999999996425</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gripper link v1_1:1</Uid>
+</InstancePath>
+<Position>-8.9000148707870288 -0.0096020132449288198 -3.5527136788005009e-15</Position>
+<Axis>0 -1.1102230246251565e-16 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Position>2.5138604963221205 -1.3009865512678864 3.5527136788005009e-15</Position>
+<Axis>-4.7184478546569153e-16 -1.5543122344752192e-15 0.99999999999996425</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gripper link v1:1</Uid>
+</InstancePath>
+<Position>-8.9000148707870252 -0.009602013244929708 0</Position>
+<Axis>1.1102230246251565e-16 0 1.0000000000000009</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gripper link v1_1:2</Uid>
+</InstancePath>
+<Position>-8.9000148707870288 -0.0096020132449234907 0</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Position>1.4658149344540981 -1.3391599815697326 3.5527136788005009e-15</Position>
+<Axis>-4.7184478546569153e-16 -1.5543122344752192e-15 0.99999999999996425</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gripper link v1:2</Uid>
+</InstancePath>
+<Position>-8.9000148707870146 -0.009602013244929708 0</Position>
+<Axis>0 -1.1102230246251565e-16 0.99999999999999956</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Position>2.5138604963221205 -1.3009865512678864 3.5527136788005009e-15</Position>
+<Axis>-4.7184478546569153e-16 -1.5543122344752192e-15 0.99999999999996425</Axis>
+</ConstraintGeometry>
+</Coincident>
+<UnknownConstraint name="Rotation:1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gear v1_MIR:1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1.1102230246251565e-16 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>gear v1:1</Uid>
+</InstancePath>
+<Position>0 -1.3322676295501878e-15 -3.5527136788005009e-15</Position>
+<Axis>-1.1102230246251565e-16 0 1</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+</Constraints>
+<Joints>
+<Revolute name="Rotational:1">
+<BaseFrame>
+<InstancePath>
+<Uid>motor2 v1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 8.058231003044716e-16 0 -8.058231003044716e-16 -1 -1.2620113287731676e-16 0 -1.2620113287731669e-16 1</Rotation>
+<Translation>1.0250000000000146 1.2212453270876722e-15 4.7400000000000002</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>part2 v7:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-4.5889763275701709e-15 -1 -2.2291196666301395e-15 1 -4.5889763275701606e-15 -4.5341334853342628e-15 4.5341334853342525e-15 -2.2291196666301604e-15 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:2">
+<BaseFrame>
+<InstancePath>
+<Uid>A5 motor v2:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 6.6613381477511374e-16 -2.8037468180475712e-16 -6.6613381477511374e-16 -1 0 -2.8037468180475712e-16 0 1</Rotation>
+<Translation>1.9499999999999991 5.4190857378690067e-16 5.8400000000000007</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>part3 v10:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 -1 0 -1 0 0 0 0 -1</Rotation>
+<Translation>2.2204460492503131e-16 10.000000000000007 1.5</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:3">
+<BaseFrame>
+<InstancePath>
+<Uid>part3 v10:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 1 0 1 0 0 0 0 -1</Rotation>
+<Translation>0 -10 2.1000000000000001</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>A4 motor v3:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 7.2164496600639948e-16 7.7270004630869195e-15 -7.2164496600642876e-16 -1 -3.7890697524023299e-15 7.7270004630869179e-15 -3.7890697524023362e-15 1</Rotation>
+<Translation>1.9499999999999991 5.4190857378690067e-16 5.8400000000000007</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:4">
+<BaseFrame>
+<InstancePath>
+<Uid>A3 motor v1:2</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 7.407269242421267e-16 2.0206059048178382e-14 -7.4072692424212434e-16 -1 1.1861171766991732e-16 2.0206059048178382e-14 1.1861171766990235e-16 1</Rotation>
+<Translation>1.0250000000000146 1.2212453270876722e-15 4.7400000000000002</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>part5 v6:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 0 -1.8762769116165644e-14 0 -1 -5.8841820305134866e-15 -1.8762769116165644e-14 -5.8841820305134866e-15 1</Rotation>
+<Translation>-0.50000000000000067 0.030305199766274049 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:5">
+<BaseFrame>
+<InstancePath>
+<Uid>A3 motor v1:3</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 7.2164496600642975e-16 8.1878948066108435e-15 -7.2164496600649789e-16 -1 -8.3266726846889943e-15 8.1878948066108387e-15 -8.3266726846890006e-15 1</Rotation>
+<Translation>1.0250000000000146 1.2212453270876722e-15 4.7400000000000002</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 0 1 -1 1.0447009986259403e-16 0 -1.0447009986259403e-16 -1 0</Rotation>
+<Translation>0.48932564418918045 4.5473804222542427 -0.90000000000000013</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:6">
+<BaseFrame>
+<InstancePath>
+<Uid>part6 v11:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.93462486824887836 0.35563514400402962 4.7184478546570839e-16 0.35563514400402962 0.93462486824887836 1.5543122344752748e-15 1.1177018488503144e-16 1.6205034555907211e-15 -1</Rotation>
+<Translation>0.3893256441891807 0.25804578702232694 0.5</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gear v1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 1 1.1102230246251565e-16 1 0 0 0 1.1102230246251565e-16 -1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:7">
+<BaseFrame>
+<InstancePath>
+<Uid>A1 motor v4:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-1 7.3552275381417715e-16 9.3536289824671758e-15 -7.3552275381401208e-16 -1 1.7652546091540428e-14 9.35362898246719e-15 1.7652546091540424e-14 1</Rotation>
+<Translation>1.0250000000000146 1.2212453270876722e-15 4.7400000000000002</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gear v1_MIR:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 1 0 1 0 1.1102230246251568e-16 1.1102230246251568e-16 0 -1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:8">
+<BaseFrame>
+<InstancePath>
+<Uid>gear v1_MIR:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 -1 0 -1 0 1.1102230246251568e-16 -1.1102230246251568e-16 0 -1</Rotation>
+<Translation>3.0750000000000002 0 0</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gripper v4:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.52346513196196165 -0.85204709706684989 6.106226635438357e-16 0.85204709706684989 -0.52346513196196165 4.4408920985006232e-16 0 7.5274448471279927e-16 1</Rotation>
+<Translation>0.45401149962797427 1.2225527158938068 0.50000000000000011</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:9">
+<BaseFrame>
+<InstancePath>
+<Uid>gear v1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 -1 1.1102230246251565e-16 -1 0 0 0 -1.1102230246251565e-16 -1</Rotation>
+<Translation>3.0750000000000002 0 0</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gripper v4_MIR:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.99816737668999789 0.060513536599741527 0 -0.060513536599741527 -0.99816737668999789 0 0 0 1</Rotation>
+<Translation>0.45401149962797427 1.2225527158938068 -0.50000000000000011</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:10">
+<BaseFrame>
+<InstancePath>
+<Uid>gripper v4:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.52346513196196165 0.85204709706684989 -6.106226635438357e-16 0.85204709706684989 0.52346513196196165 -4.4408920985006232e-16 0 -7.5274448471279927e-16 -1</Rotation>
+<Translation>2.6540114996279742 1.2225527158938068 0.50000000000000011</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gripper link v1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>1.3877787807814447e-16 -1 -1.1102230246251556e-16 -1 -1.3877787807814447e-16 0 0 1.1102230246251554e-16 -1</Rotation>
+<Translation>-12 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:11">
+<BaseFrame>
+<InstancePath>
+<Uid>gripper v4:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.99696204926774823 -0.077888845927078509 -6.106226635438357e-16 -0.077888845927078509 0.99696204926774823 -4.4408920985006232e-16 6.4335721801988278e-16 -3.9517939414946512e-16 -1</Rotation>
+<Translation>2.6540114996279742 1.2225527158938068 0</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gripper link v1:2</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 -1 0 -1 0 1.110223024625157e-16 -1.110223024625157e-16 0 -1</Rotation>
+<Translation>-12 0 0.40000000000000002</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:12">
+<BaseFrame>
+<InstancePath>
+<Uid>gripper v4_MIR:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 1 0 1 0 0 0 0 -1</Rotation>
+<Translation>2.6540114996279742 1.2225527158938068 0</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gripper link v1_1:2</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-12 0 0.40000000000000002</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotational:13">
+<BaseFrame>
+<InstancePath>
+<Uid>gripper v4_MIR:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.99816737668999789 -0.060513536599741527 0 -0.060513536599741527 0.99816737668999789 0 0 0 -1</Rotation>
+<Translation>2.6540114996279742 1.2225527158938068 -0.50000000000000011</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>gripper link v1_1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>2.2204460492503136e-16 1 0 -1 2.2204460492503136e-16 -1.1102230246251568e-16 -1.1102230246251565e-16 0 1</Rotation>
+<Translation>-12 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+</Joints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="A1 motor v4.ipt" uid="A1 motor v4.ipt_{23A5CCAA-4076-C118-3CB9-978CF54BDCC1}" version="{38B98D24-0450-24B3-244C-BD7E1485F622}">
+<PartFile name="A1 motor v4.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.03381704860447713</Mass>
+<CenterOfMass>0.047313005776313449 -1.7642408765677724e-05 2.0314643444564044</CenterOfMass>
+<Inertia>0.058059133930741948 0.095379068520959551 0.060116877940714339 -8.9579526629803399e-07 -0.0025760307481198109 1.360800950936853e-06</Inertia>
+</MassProperties>
+<GeometryFile name="A1 motor v4_ipt_22eab607.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="A3 motor v1.ipt" uid="A3 motor v1.ipt_{8934C8BC-44E6-4580-6A39-349BC0A8021E}" version="{53714FFB-7EEE-2B1A-75F5-044B643BDC31}">
+<PartFile name="A3 motor v1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.033887891519202934</Mass>
+<CenterOfMass>0.049356868432884671 -1.7605539029274932e-05 2.036896604512866</CenterOfMass>
+<Inertia>0.058574015274590351 0.095961525041125553 0.060258926736417799 -8.9903556114816472e-07 -0.0027556347837272206 1.3595815335071297e-06</Inertia>
+</MassProperties>
+<GeometryFile name="A3 motor v1_ipt_cd95816f.STEP" type="STEP"/>
+</Part>
+<Part name="A4 motor v3.ipt" uid="A4 motor v3.ipt_{E581CF06-4C4E-954F-DB56-5FA16819F06B}" version="{3AD55270-E6BE-3A42-E231-3851D02CAF27}">
+<PartFile name="A4 motor v3.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.097768895155203456</Mass>
+<CenterOfMass>0.035437573111003075 -0.00059124387099148822 2.5217999283208026</CenterOfMass>
+<Inertia>0.27738159285411917 0.55679388254746875 0.42174036203470072 -0.0001151365474067706 -0.0077653159524688712 0.00020189663713950174</Inertia>
+</MassProperties>
+<GeometryFile name="A4 motor v3_ipt_6432a0c0.STEP" type="STEP"/>
+</Part>
+<Part name="A5 motor v2.ipt" uid="A5 motor v2.ipt_{5B5B7EE2-42E3-9214-852A-BDB34A7504B0}" version="{60BE21E8-0412-7B14-738C-F16C68A3989F}">
+<PartFile name="A5 motor v2.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.097768895155203456</Mass>
+<CenterOfMass>0.035437573111003075 -0.00059124387099148822 2.5217999283208026</CenterOfMass>
+<Inertia>0.27738159285411917 0.55679388254746875 0.42174036203470072 -0.0001151365474067706 -0.0077653159524688712 0.00020189663713950174</Inertia>
+</MassProperties>
+<GeometryFile name="A5 motor v2_ipt_5b3bfaf9.STEP" type="STEP"/>
+</Part>
+<Part name="gear v1.ipt" uid="gear v1.ipt_{3C7B8A90-4A10-32B7-97EB-E081231E8C8E}" version="{389D4B93-F26D-E650-D765-A892E552C5C4}">
+<PartFile name="gear v1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.002581585636560418</Mass>
+<CenterOfMass>0.55519629277187765 0.058108574986350005 0.20000000000000001</CenterOfMass>
+<Inertia>0.00089996801607141971 0.0036865303818368824 0.0045176561142666908 0 0 8.3286252035723971e-05</Inertia>
+</MassProperties>
+<GeometryFile name="gear v1_ipt_4e0ae629.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gear v1_MIR.ipt" uid="gear v1_MIR.ipt_{6E256D03-421A-B59B-4A5E-2E82B9FF9A98}" version="{88C69130-7EB9-A821-DE0F-5A62E2FBE021}">
+<PartFile name="gear v1_MIR.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.002581585636560418</Mass>
+<CenterOfMass>0.55519629277187765 0.058108574986350005 -0.20000000000000001</CenterOfMass>
+<Inertia>0.00089996801607141971 0.0036865303818368824 0.0045176561142666908 0 0 8.3286252035723971e-05</Inertia>
+</MassProperties>
+<GeometryFile name="gear v1_MIR_ipt_44754a03.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gripper link v1.ipt" uid="gripper link v1.ipt_{C6F1B90D-4300-10E3-786C-B388CF107D05}" version="{70412504-86CA-09D8-6041-2EBCCA49FB48}">
+<PartFile name="gripper link v1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.00079879198577979045</Mass>
+<CenterOfMass>-10.450056779073897 -0.007747683219996946 0.20000000000000001</CenterOfMass>
+<Inertia>3.6338635508988204e-05 0.0010292541049975058 0.0010442916208857013 0 0 2.3215703186803826e-06</Inertia>
+</MassProperties>
+<GeometryFile name="gripper link v1_ipt_a2717454.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gripper link v1_1.ipt" uid="gripper link v1_1.ipt_{894D57A0-4F98-0FDE-7B81-02A2D0FD5BBB}" version="{CDE19E77-43FB-3495-2039-2FEE0081F756}">
+<PartFile name="gripper link v1_1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.00079879198577979045</Mass>
+<CenterOfMass>-10.450056779073897 -0.007747683219996946 0.20000000000000001</CenterOfMass>
+<Inertia>3.6338635508988204e-05 0.0010292541049975058 0.0010442916208857013 0 0 2.3215703186803826e-06</Inertia>
+</MassProperties>
+<GeometryFile name="gripper link v1_1_ipt_b98d1294.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gripper v4.ipt" uid="gripper v4.ipt_{646100A2-4146-B931-E0CD-9EB72B7C8E72}" version="{96B905D8-F97A-131C-7A6C-858371B98BC2}">
+<PartFile name="gripper v4.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0032996774210516918</Mass>
+<CenterOfMass>3.3033476379797109 1.6246132728137836 0.25000000000000006</CenterOfMass>
+<Inertia>0.0010621940372540202 0.010716018912634894 0.011640726390678431 0 0 -0.0024901302632962087</Inertia>
+</MassProperties>
+<GeometryFile name="gripper v4_ipt_987aeba9.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gripper v4_MIR.ipt" uid="gripper v4_MIR.ipt_{D195CF43-46D5-389A-AE8C-8E8835CB071C}" version="{9A070540-9393-0DA1-FD5F-A98C0C8D144A}">
+<PartFile name="gripper v4_MIR.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0032996938715651311</Mass>
+<CenterOfMass>3.3034137658737022 1.6246078425137265 -0.25000000186791499</CenterOfMass>
+<Inertia>0.001062202703684127 0.010716452201882476 0.011641167658857378 -6.7134631187570903e-12 8.1753703806697334e-11 -0.0024901910886929563</Inertia>
+</MassProperties>
+<GeometryFile name="gripper v4_MIR_ipt_8e09d165.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="motor2 v1.ipt" uid="motor2 v1.ipt_{1418393C-4E86-BE4F-E33D-0C9635316589}" version="{D99A25E3-9753-ECFB-2824-FFCF1B2962B3}">
+<PartFile name="motor2 v1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.033887891519202934</Mass>
+<CenterOfMass>0.049356868432884671 -1.7605539029274932e-05 2.036896604512866</CenterOfMass>
+<Inertia>0.058574015274590351 0.095961525041125553 0.060258926736417799 -8.9903556114816472e-07 -0.0027556347837272206 1.3595815335071297e-06</Inertia>
+</MassProperties>
+<GeometryFile name="motor2 v1_ipt_789a3f6b.STEP" type="STEP"/>
+</Part>
+<Part name="part2 v7.ipt" uid="part2 v7.ipt_{6296E408-4569-8AC5-17A9-B2804D15F46E}" version="{681928BD-EB7A-D531-1B3B-587EF0CD9C08}">
+<PartFile name="part2 v7.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.089887362248423017</Mass>
+<CenterOfMass>-1.3447256955849083 0.55288778207751232 4.2469924117433866</CenterOfMass>
+<Inertia>1.5879372675627916 2.4166366897588127 1.2150830451445869 -0.096445397971334335 0.65931502089806471 0.023230397056870956</Inertia>
+</MassProperties>
+<GeometryFile name="part2 v7_ipt_84f49300.STEP" type="STEP"/>
+</Part>
+<Part name="part3 v10.ipt" uid="part3 v10.ipt_{F21CB5C4-4557-A151-6923-D4A0A7FD73C5}" version="{59789995-41B6-51A8-520C-773AEB890FA2}">
+<PartFile name="part3 v10.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.12099100754564503</Mass>
+<CenterOfMass>-4.8854778568008588e-06 -7.9971899439458592e-05 1.2299551146079095</CenterOfMass>
+<Inertia>4.5439069154636282 0.19234939211215485 4.6476076880519042 -9.5415399760572308e-06 -6.5032061648242812e-07 4.4740552233492911e-05</Inertia>
+</MassProperties>
+<GeometryFile name="part3 v10_ipt_156c8f5a.STEP" type="STEP"/>
+</Part>
+<Part name="part4 v16.ipt" uid="part4 v16.ipt_{A131C2DB-4DE9-C32B-D407-82BF9E00F80C}" version="{E3272964-57EA-215A-73E8-B4212987948A}">
+<PartFile name="part4 v16.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.07989045319828432</Mass>
+<CenterOfMass>6.7168541723201018 0.85842656166182574 0.69092699940796798</CenterOfMass>
+<Inertia>0.19364048475167159 2.2818600947590379 2.3849262982830477 9.5017783502761682e-05 0.0064512964783539246 -0.0061470123178200423</Inertia>
+</MassProperties>
+<GeometryFile name="part4 v16_ipt_a8cdfd73.STEP" type="STEP"/>
+</Part>
+<Part name="part5 v6.ipt" uid="part5 v6.ipt_{EC90FA04-416C-8E0F-FFB7-86A1197394AB}" version="{7026CC98-1416-55E5-0AB1-9856C6CD409B}">
+<PartFile name="part5 v6.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.019167915375053635</Mass>
+<CenterOfMass>-0.0082852523891633143 0.57325189000337329 2.7501649180143239</CenterOfMass>
+<Inertia>0.10215517007843408 0.11809998295161885 0.032237965578922126 -0.010105932269618994 0.0002943972224686679 9.3993174465890038e-05</Inertia>
+</MassProperties>
+<GeometryFile name="part5 v6_ipt_377e2b9c.STEP" type="STEP"/>
+</Part>
+<Part name="part6 v11.ipt" uid="part6 v11.ipt_{803506D6-41D2-A30E-661D-4A84A68A8C57}" version="{BFDD7456-F5BF-9A96-4057-BA652B953A39}">
+<PartFile name="part6 v11.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.017526010090795352</Mass>
+<CenterOfMass>2.1087312729052634 2.2682782746462959 -0.28885932834111594</CenterOfMass>
+<Inertia>0.076308997611404805 0.056093534458285105 0.11615289531936773 0.011419461756440435 -0.003038101034178215 0.0031755650442700867</Inertia>
+</MassProperties>
+<GeometryFile name="part6 v11_ipt_c0a74353.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.14999999999999999</Shininess>
+</VisualProperties>
+</Part>
+<Part name="robot v4.ipt" uid="robot v4.ipt_{505EC48F-456E-E641-A5F3-D399A9294165}" version="{64E98358-DDF9-7A42-661E-B684AB8D0E27}">
+<PartFile name="robot v4.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.096094275746944791</Mass>
+<CenterOfMass>0.011629174829583802 2.818232426139827e-06 2.2293958748695704</CenterOfMass>
+<Inertia>1.2826383677209965 1.3735986682335766 2.0792541547172929 2.2461367678212213e-07 0.039130260224790839 -1.2940340886797425e-06</Inertia>
+</MassProperties>
+<GeometryFile name="robot v4_ipt_5b1387d1.STEP" type="STEP"/>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

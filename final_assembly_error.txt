@@ -1,0 +1,5 @@
+Constrained Instances: 'gear v1_MIR:1', 'gear v1:1'
+Constraint Name: Rotation:1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+
